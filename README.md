@@ -1,0 +1,1 @@
+In this repository, I created a simple version of To-Do-List Web page using HTML, CSS and JS. The goal is to understand the basics of the mentioned languages. To preview click [here](https://sulemaniftikhar.github.io/to-do-list/)
